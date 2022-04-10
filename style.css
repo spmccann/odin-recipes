@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darkblue;
+    color: wheat;
+    width: 50%;
+    margin: auto;
+}
+
+li {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+a {
+    color: red;
+}
+
+img {
+    height: auto;
+    width: auto;
+}
+
+.list1 {
+    color: yellow;
+}
+
+h1 {
+    text-align: center;
+}
